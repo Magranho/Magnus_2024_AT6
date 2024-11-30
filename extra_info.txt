@@ -1,0 +1,2 @@
+The class "UserInputValidator" takes a list as an argument, converts the elements to an int,
+and returns only the positive integers, along with a message explaining that the work is complete.
